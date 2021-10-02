@@ -8,7 +8,7 @@ US Bike share Data Project
  Exploring data related to bike share systems for three major cities in the United States—Chicago, New York City, and Washington
 
 ### Files used
-Include the files used
+Chicago Bike Share Data [ Kaggle ](https://www.kaggle.com/yingwurenjian/chicago-divvy-bicycle-sharing-data/download)
 
 ### Credits
 It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
